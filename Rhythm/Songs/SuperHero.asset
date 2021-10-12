@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4376cff7a1a30d04999e31e6927092f4, type: 3}
+  m_Name: SuperHero
+  m_EditorClassIdentifier: 
+  songID: 
+  songName: 
+  music: {fileID: 8300000, guid: a0322fda2b7102a47a1754c8107afa2e, type: 3}
+  level: 0
+  noteSpawns:
+  - noteTime: 0.5546485
+    noteType: 0
+    notePos: {x: -14.721453, y: -6.547884}
+  - noteTime: 1.1519954
+    noteType: 0
+    notePos: {x: -4.2827325, y: 1.3778108}
+  - noteTime: 1.5786622
+    noteType: 0
+    notePos: {x: 3.7718344, y: 3.7619624}
+  - noteTime: 2.0693197
+    noteType: 0
+    notePos: {x: 11.1175995, y: -0.36197573}
+  - noteTime: 2.623991
+    noteType: 0
+    notePos: {x: 12.59964, y: -7.1922493}
+  - noteTime: 3.2213151
+    noteType: 0
+    notePos: {x: -9.824277, y: -1.5218343}
+  - noteTime: 3.8186622
+    noteType: 0
+    notePos: {x: 3.1274686, y: -1.2640876}
+  - noteTime: 4.3519955
+    noteType: 0
+    notePos: {x: 15.370409, y: 7.6925907}
+  - noteTime: 4.970658
+    noteType: 0
+    notePos: {x: -11.177443, y: 5.7594957}
+  - noteTime: 5.5253286
+    noteType: 0
+    notePos: {x: 4.5450735, y: 4.3418903}
+  - noteTime: 6.101315
+    noteType: 0
+    notePos: {x: -12.0795555, y: 1.0556278}
+  - noteTime: 6.6773243
+    noteType: 0
+    notePos: {x: 8.346829, y: 3.3109066}
+  - noteTime: 7.295986
+    noteType: 0
+    notePos: {x: 9.05563, y: 6.3394237}
+  - noteTime: 7.807982
+    noteType: 0
+    notePos: {x: -10.919695, y: 6.2105513}
+  - noteTime: 8.426644
+    noteType: 0
+    notePos: {x: -12.530611, y: -1.2640876}
+  - noteTime: 8.895987
+    noteType: 0
+    notePos: {x: 11.890839, y: -1.8440175}
